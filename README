@@ -1,0 +1,56 @@
+Fotoboard gives you the ability to create and manage your own exclusive photo sharing community with little effort.
+
+REQUIREMENTS
+--------------------
+- PHP5
+- GD LIBRARY
+- Javascript enabled browser
+
+
+INSTALLATION
+------------------
+Fotoboard does not require any installation process. Its ready to go as soon as its downloaded.
+Untar the archive "fotoboard.tar" somewhere in your web server's document root.
+
+However, you may want to ensure the following
+
+- change the ownership of the following directories to your apache user
+	/your/install/path/fotoboard/tags
+	/your/install/path/fotoboard/albums
+	/your/install/path/fotoboard/photos
+	/your/install/path/fotoboard/images
+	/your/install/path/fotoboard/tmp
+
+- ensure your browser is javascript enabled
+
+
+FEATURES
+-------------
+Fotoboard was developed using the following technologies
+- PHP5
+- AJAX
+- XML
+
+You will notice that no database backend is required. This was a delibrate decision made
+to reduce the overhead required for setup to virtually nil. Fotoboard indexes images using
+a clean XML database. Entities such as photos, albums and tags are represented using XML
+files. 
+
+
+GETTING STARTED
+------------------------
+After untaring the archives and setting the permissions as outlined above. You can access your
+control panel by pointing your browser to /your/install/path/fotoboard. Login with username "admin"
+and password "admin". This can be changed as soon as you login. Administrative operations
+should be inutitive. You may now begin to create and manage user accounts. Remember, fotoboard's 
+purpose it to provide you with the ability to grow your own exclusive photo sharing community. Hence,
+no provisions were made for public access to your photos. Only members of your community may access
+photos.
+
+
+CUSTOMIZATION
+----------------------
+The layout and colors can be altered to match your website's pallete by editing the stylesheet (style.css).
+If you do not have any experience with style sheets, we will be happy to help. You may request 
+support by sending an email to webmaster@fotocrib.com. You will be required to pay a nominal fee.
+

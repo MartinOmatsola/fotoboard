@@ -1,0 +1,104 @@
+div.box {
+position:relative;
+top:5px;
+width:900px;
+border-style:solid;
+border-width:thin;
+border-color:#CFCFE7;
+font-family:Tahoma;
+font-size:12px;
+color:#FF0000;
+}
+
+div.caps {
+color:#444444;
+font-family:Tahoma;
+font-size:12px;
+}
+
+div.tags {
+width:600px;
+color:#444444;
+font-family:Tahoma;
+font-size:11px;
+border-style:dashed;
+border-width:thin;
+border-color:#CFCFE7;
+}
+
+
+div.ctop {
+width:902px;
+height:50px;
+background-image:url(top_red.png);
+}
+
+div.cbottom {
+position:relative;
+top:10px;
+width:902px;
+height:50px;
+background-image:url(bottom_red.png);
+}
+
+input.options {
+font-family:Arial;;
+font-size:16px;
+background:#FFDAB9;
+border-style:solid;
+border-width:thin;
+color:#444444;
+}
+
+input.updates:hover, input.options:hover, textarea.updates:hover {
+border-style:solid;
+border-width:thin;
+border-color:#FF0000;
+}
+
+select.updates, input.updates, td.updates, textarea.updates {
+font-family:Arial;
+font-size:12px;
+font-weight:lighter;
+background:#FFDAB9;
+border-style:solid;
+border-width:thin;
+border-color:#CFCFE7;
+color:#FF0000;
+}
+
+div.comment_input {
+width:400px;
+height:100px;
+background:Lavender;
+border-style:solid;
+border-width:thin;
+border-color:#FF0000;
+}
+
+div.com {
+width:400px;
+border-top:solid;
+border-bottom:solid;
+border-width:thin;
+font-family:Tahoma;
+color:#444444;
+font-size:11px;
+border-color:#CFCFE7;
+}
+
+span.inf, td.inf {
+font-family:Tahoma;
+font-size:12px;
+color:#FF0000;
+}
+
+img.ad {
+background:#FFFFFF;
+}
+
+img.ad:hover {
+border-style:solid;
+border-width:thin;
+border-color:#FF0000;
+}

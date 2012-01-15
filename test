@@ -1,0 +1,28 @@
+<table border="0" width="600" style="border-color:#CFCFE7;border-style:solid;border-width:thin" cellspacing="5" cellpadding="5">
+					<tr>
+						<td align="center">
+							<table border="0">
+								<tr>
+									<td>
+										<a href="javascript:showPhotos('475660875715')"><img class="ad" src="rounder.php?q=images/778322355047.jpg" border="0" title="test" onMouseOver="javascript:showAlbumInfo('475660875715')" onMouseOut="javascript:document.getElementById('info').innerHTML=''" /></a>
+									</td>
+								</tr>
+							</table>
+						</td>
+						<td align="left">
+							<table style="font-size:12px;color:#444444" border="0">
+								<tr><td><b>Name: </b><i>test</i></td></tr>
+								<tr><td><b>Images: </b><i>1</i></td></tr>
+								<tr><td><b>Owner: </b><i>Jamie lynn</i></td></tr><tr><td><b>Members: </b><span><i></i></span></td></tr>	<tr><td><b>Created: </b><i>Saturday 21st of April 2007 08:58 PM</i></td></tr>
+								<tr><td><b>Modified: </b><i>Saturday 21st of April 2007 08:58 PM</i></td></tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2"><div id="475660875715"></div></td>
+					</tr>
+				</table>
+				
+				<span><input class="updates" type="button" onClick="createAlbum('475660875715')" value="upload" title="upload new photos" /> <input class="updates" type="button" value="delete" onClick="deleteAlbum('475660875715')" title="delete this album, irreversible!" /><input class="updates" type="button" onClick="inputBox('share', '475660875715')" value="share" title="share this album" />
+		
+	<input class="updates" type="button" value="rename" title="got a cooler name for this album?" onClick="inputBox('475660875715', '475660875715')" /> </span><br /><br />
